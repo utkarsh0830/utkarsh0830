@@ -9,7 +9,7 @@
 - 🌱 I’m learning **Kubernetes, GitOps, and advanced CI/CD pipelines**
 - 💬 Ask me about **Flutter, Firebase, Node.js, AWS, Docker, Jenkins**
 - 📫 Reach me at: **utkarsh0830@gmail.com**
-- 📄 Know more about me [here](https://www.linkedin.com/in/utkarsh0830/)
+- 📄 Know more about me [here](https://www.linkedin.com/in/utkarshagrawal0830/)
 - ⚡ Fun fact: I love building fast, scalable apps that solve real problems!
 
 ---
