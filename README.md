@@ -30,7 +30,7 @@ A full-stack platform with:
 
 **Tech Stack:** Node.js, Express, MongoDB, Firebase, Flutter, Stripe API, Google Maps
 
-🔗 [View Project](https://github.com/utkarsh0830/Multi-Vendor-Restaurant-App)
+🔗 [View Project](https://github.com/utkarsh0830/Restaurant-App)
 
 ---
 
