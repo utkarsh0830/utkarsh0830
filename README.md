@@ -1,16 +1,36 @@
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
-<h3 align="center">A passionate Full Stack & DevOps Developer</h3>
+<h3 align="center">A passionate Backend, DevOps & Cross-Platform Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=utkarsh0830&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh0830" />
 </p>
 
-- 🔭 I’m currently working on **scalable backend systems and cross-platform apps**
-- 🌱 I’m learning **Kubernetes, GitOps, and advanced CI/CD pipelines**
-- 💬 Ask me about **Flutter, Firebase, Node.js, AWS, Docker, Jenkins**
-- 📫 Reach me at: **utkarsh0830@gmail.com**
-- 📄 Know more about me [here](https://www.linkedin.com/in/utkarshagrawal0830/)
-- ⚡ Fun fact: I love building fast, scalable apps that solve real problems!
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently building **scalable, cloud-native backend systems** and **cross-platform mobile apps** for real-world deployment.
+- 🌱 Deepening expertise in **Kubernetes, GitOps workflows, Infrastructure as Code (Terraform, CloudFormation)** and **secure DevOps practices**.
+- 💬 Let's talk about **Flutter/Dart, Node.js/Express, MongoDB, AWS (EC2, S3, Lambda), Docker, Jenkins, GitLab CI/CD, Firebase**.
+- 📫 Reach me at: [utkarsh0830@gmail.com](mailto:utkarsh0830@gmail.com)
+- 📄 Know more about me on [LinkedIn](https://www.linkedin.com/in/utkarshagrawal0830/)
+- ⚡ Fun fact: I love building **fast, scalable apps** that solve real-world problems!
+
+---
+
+### 🏆 Featured Project
+
+**🔧 Multi-Vendor Restaurant App**  
+A full-stack platform with:
+- 🔐 OTP-based auth
+- 📍 Location-based restaurant suggestions
+- 💳 Stripe payments
+- 🚚 Real-time delivery time and cost
+- 📦 Live order tracking
+
+**Tech Stack:** Node.js, Express, MongoDB, Firebase, Flutter, Stripe API, Google Maps
+
+🔗 [View Project](https://github.com/utkarsh0830/Multi-Vendor-Restaurant-App)
 
 ---
 
@@ -41,10 +61,10 @@
 
 ---
 
-### 📫 Connect with me
+### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/utkarsh0830/" target="_blank">
+  <a href="https://www.linkedin.com/in/utkarshagrawal0830/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:utkarsh0830@gmail.com" target="_blank">
