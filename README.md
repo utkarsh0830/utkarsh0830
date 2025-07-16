@@ -12,7 +12,7 @@
 - 🔭 I’m currently building **scalable, cloud-native backend systems** and **cross-platform mobile apps** for real-world deployment.
 - 🌱 Deepening expertise in **Kubernetes, GitOps workflows, Infrastructure as Code (Terraform, CloudFormation)** and **secure DevOps practices**.
 - 💬 Let's talk about **Flutter/Dart, Node.js/Express, MongoDB, AWS (EC2, S3, Lambda), Docker, Jenkins, GitLab CI/CD, Firebase**.
-- 📫 Reach me at: [utkarsh0830@gmail.com](mailto:utkarsh0830@gmail.com)
+- 📫 Reach me at: [utkarshagrawal970@gmail.com](mailto:utkarshagrawal970@gmail.com)
 - 📄 Know more about me on [LinkedIn](https://www.linkedin.com/in/utkarshagrawal0830/)
 - ⚡ Fun fact: I love building **fast, scalable apps** that solve real-world problems!
 
