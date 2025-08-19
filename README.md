@@ -18,19 +18,32 @@
 
 ---
 
-### 🏆 Featured Project
+### 🏆 Featured Projects
 
-**🔧 Multi-Vendor Restaurant App**  
-A full-stack platform with:
-- 🔐 OTP-based auth
-- 📍 Location-based restaurant suggestions
-- 💳 Stripe payments
-- 🚚 Real-time delivery time and cost
-- 📦 Live order tracking
+#### 📱 **Real-Time Chatting App**
+A cross-platform chat application with:
+- 🔐 End-to-end encryption
+- 🔄 Live messaging & presence indicator
+- 📨 Push Notifications using Firebase
+- 🌐 Socket-based real-time backend
 
-**Tech Stack:** Node.js, Express, MongoDB, Firebase, Flutter, Stripe API, Google Maps
+**Tech Stack:** Flutter, Node.js, Socket.IO, MongoDB, Firebase
 
-🔗 [View Project](https://github.com/utkarsh0830/Restaurant-App)
+🔗 <https://github.com/utkarsh0830/chat_app>
+
+---
+
+#### 💳 **Credit Approval System**
+A scalable backend platform to automate customer credit-worthiness evaluation and loan approval.
+
+- 📥 Customer onboarding & registration
+- 🧠 Eligibility logic using financial rules
+- ⚙️ Background workers with Celery
+- 🚀 REST APIs built using DRF + PostgreSQL + Redis
+
+**Tech Stack:** Django, DRF, Celery, PostgreSQL, Redis, Docker, Kubernetes
+
+🔗 <https://github.com/utkarsh0830/Credit-Approval-System>
 
 ---
 
@@ -67,7 +80,7 @@ A full-stack platform with:
   <a href="https://www.linkedin.com/in/utkarshagrawal0830/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:utkarsh0830@gmail.com" target="_blank">
+  <a href="mailto:utkarshagrawal970@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
