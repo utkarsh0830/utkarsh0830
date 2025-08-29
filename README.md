@@ -29,7 +29,7 @@ A cross-platform chat application with:
 
 **Tech Stack:** Flutter, Node.js, Socket.IO, MongoDB, Firebase
 
-🔗 <https://github.com/utkarsh0830/chat_app>
+🔗 <https://github.com/utkarsh0830/chatting_app>
 
 ---
 
